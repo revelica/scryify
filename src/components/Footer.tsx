@@ -51,7 +51,7 @@ export function Footer() {
 
         <div className="mt-10 pt-6 border-t border-border flex flex-col sm:flex-row justify-between items-center gap-2 text-xs text-muted-foreground">
           <span>© 2026 Scryify, Inc. All rights reserved.</span>
-          <span className="font-mono">v2.4.1 · api.scryify.io · status: ✓ nominal</span>
+          <span className="font-mono">v2.4.2 · api.scryify.io · status: ✓ nominal</span>
         </div>
       </div>
     </footer>
